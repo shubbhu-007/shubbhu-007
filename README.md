@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif)
+![MasterHead](https://getwallpapers.com/wallpaper/full/2/8/6/1253922-cool-computer-programming-wallpaper-1920x1080-for-ios.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Sonkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" alt="coding gif" align="right" width="400px">
