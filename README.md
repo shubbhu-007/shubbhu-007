@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-hacking-child-computer-screen-picture-image_2735813.jpg)
+![MasterHead](https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm Shubham Sonkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" alt="coding gif" align="right" width="400px">
